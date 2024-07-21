@@ -2,6 +2,7 @@
 
 
 
+![Screenshot 2024-07-22 051234](https://github.com/user-attachments/assets/84355402-bcca-4803-8135-c224d737c2b7)
 
 
 # TUTORIAL NINJA - The E-Commerce Website
