@@ -57,7 +57,7 @@ Below are the links for Testing Activities
 |Blocker|0|
 |Minor|3|
 |Critical|0|
-** Another with UI,Performance and more.
+** Another with UI,Performance and more.**
 |Defect Status|Build Result|
 |---|---|
 |Total Number|6|
