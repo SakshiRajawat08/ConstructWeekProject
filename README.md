@@ -49,6 +49,20 @@ Below are the links for Testing Activities
 |Passed Test Cases|10|
 |Failed Test Cases|6|
 |Blocked/Skipped Test Cases|0|
+## Defect Status
+|Defect Status|Build Result|
+|---|---|
+|Total Number|6|
+|Major|3|
+|Blocker|0|
+|Minor|3|
+|Critical|0|
+|Defect Status|Build Result|
+|---|---|
+|Total Number|6|
+|UI/UX|2|
+|Performance|0|
+|Functional|4|
 
 
 
