@@ -13,7 +13,6 @@ URL: https://tutorialsninja.com/demo/
 1.Features to be tested
 2.Testing Types
 3.Testing methodologies
-## Credentials
-"email": "rajawatsakshi400@gmail"
-"paasword": "sakshi"
+## Cypress Installation
+### Prerequisites
 
