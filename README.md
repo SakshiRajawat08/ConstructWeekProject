@@ -20,7 +20,7 @@ URL: https://tutorialsninja.com/demo/
 ## Cypress Installation
 ### Prerequisites
 Node.js must be installed in your computer.If not,download it from  https://nodejs.org/en 
-### Installation
+## Installation
 ##Step 1. Installation of VsCode
 Download it from Official Website and after downloading install it from official website
 ##Step 2. Installation of Nodejs
