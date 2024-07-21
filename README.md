@@ -21,12 +21,12 @@ URL: https://tutorialsninja.com/demo/
 ### Prerequisites
 Node.js must be installed in your computer.If not,download it from  https://nodejs.org/en 
 ## Installation
-##Step 1. Installation of VsCode
+###Step 1. Installation of VsCode
 * Download it from Official Website and after downloading install it from official website
-##Step 2. Installation of Nodejs
-Download it and install Node JS
-##Step 3. Verify your Node Js version and npm version
-node -v
+###Step 2. Installation of Nodejs
+* Download it and install Node JS
+###Step 3. Verify your Node Js version and npm version
+* node -v
 ## Download the Project
 git clone
 ## Run the Project
