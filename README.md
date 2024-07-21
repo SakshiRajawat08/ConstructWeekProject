@@ -34,7 +34,7 @@ Open a terminal and navigate to project directory.Install Cypress
 npm install cypress --save-dev
 ## Test Artifacts
 Below are the links for Testing Activities
-[Test Plan](https://docs.google.com/document/d/1Wyx0BL5xW5kDV0ieKuIm2DHhI9XgQmFN4gMjXmuy8Go/edit?usp=sharing "Test Plan")
+* [Test Plan](https://docs.google.com/document/d/1Wyx0BL5xW5kDV0ieKuIm2DHhI9XgQmFN4gMjXmuy8Go/edit?usp=sharing "Test Plan")
 
 
 
