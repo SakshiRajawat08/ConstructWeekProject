@@ -12,18 +12,21 @@ To Perform functionality,usability and performance testing of the Logout functio
 *  _Javascipt_
 *  _Node.js_
 ### Version Control and Testing Tool Used
- _Git_
- _Github_
- _Cypress_
- _Visual Studio Code_
+ * _Git_
+ * _Github_
+ * _Cypress_
+ * _Visual Studio Code_
 ### Operating System and Browsers Used:
-_Window_,_Edge_,_Firefox_,_Chrome_
+* _Window_
+* _Edge_
+* _Firefox_
+* _Chrome_
 ## Application Under Test
 URL: https://tutorialsninja.com/demo/ 
 ## Scope
- Features to be tested
- Testing Types
- Testing methodologies
+ * Features to be tested
+ * Testing Types
+ * Testing methodologies
 ## Cypress Installation
 ### Prerequisites
 Node.js must be installed in your computer.If not,download it from  https://nodejs.org/en 
