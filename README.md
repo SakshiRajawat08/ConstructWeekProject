@@ -35,6 +35,7 @@ npm install cypress --save-dev
 ## Test Artifacts
 Below are the links for Testing Activities
 * [Test Plan](https://docs.google.com/document/d/1Wyx0BL5xW5kDV0ieKuIm2DHhI9XgQmFN4gMjXmuy8Go/edit?usp=sharing "Test Plan")
+* [Test Scenarios,Test Cases and Bug Report](https://docs.google.com/spreadsheets/d/1fRUxbfSXyyJTpEmm6-UmM6Dwq1tDIOhw52vtCJ6LivU/edit?usp=sharing "Test Sceanrios,Test Cases and Bug Report)
 
 
 
