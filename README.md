@@ -9,3 +9,11 @@ _Git_,_Github_,_Cypress_,_Visual Studio Code_
 _Window_,_Edge_,_Firefox_,_Chrome_
 ## Application Under Test
 URL: https://tutorialsninja.com/demo/ 
+## Scope
+1.Features to be tested
+2.Testing Types
+3.Testing methodologies
+## Credentials
+"email": "rajawatsakshi400@gmail"
+"paasword": "sakshi"
+
