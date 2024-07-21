@@ -64,6 +64,8 @@ Below are the links for Testing Activities
 |UI/UX|2|
 |Performance|0|
 |Functional|4|
+## Attachments
+![Image](https://tutorialsninja.com/demo/ "tutorial ninja image")
 
 
 
