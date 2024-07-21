@@ -26,7 +26,9 @@ Node.js must be installed in your computer.If not,download it from  https://node
 ## Step 2. Installation of Nodejs
  Download it and install Node JS
 ## Step 3. Verify your Node Js version and npm version
+```
  node -v
+```
 ## Download the Project
 git clone
 ## Run the Project
@@ -41,6 +43,10 @@ Below are the links for Testing Activities
 * [Mind Map](https://drive.google.com/file/d/1XZz5Hbx3jpjYqbqfEE9536xeUvnF_RaU/view?usp=sharing "Mind Map")
 * [Summary Report](https://docs.google.com/document/d/1RM2u08QXJkOO1_dbcOMYFqEpqsVPUCLiEi-RzvlZ1Kg/edit?usp=sharing "Summary Report")
 ## Test Case Execution Status
+|Test Case Execution Status|Build Result|
+|---|---|
+|Total Number of Test Cases|16|
+|Passed Test Cases|10|
 
 
 
