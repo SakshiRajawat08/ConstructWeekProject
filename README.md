@@ -1,1 +1,1 @@
-# Tutorial Ninja - the E-Commerce Website
+# TUTORIAL NINJA - The E-Commerce Website
