@@ -15,4 +15,5 @@ URL: https://tutorialsninja.com/demo/
 3.Testing methodologies
 ## Cypress Installation
 ### Prerequisites
+Node.js must be installed in your computer.If not,download it from  https://nodejs.org/en 
 
