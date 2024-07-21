@@ -47,6 +47,8 @@ Below are the links for Testing Activities
 |---|---|
 |Total Number of Test Cases|16|
 |Passed Test Cases|10|
+|Failed Test Cases|6|
+|Blocked/Skipped Test Cases|0|
 
 
 
