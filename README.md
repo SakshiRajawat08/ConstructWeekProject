@@ -1,3 +1,9 @@
+
+
+
+
+![Screenshot 2024-07-22 050713](https://github.com/user-attachments/assets/1d216b6a-a94e-4dd6-9d33-7c77120fd6ca)
+
 # TUTORIAL NINJA - The E-Commerce Website
 ## Objective
 To Perform functionality,usability and performance testing of the Logout functionality of the demo e-commerce websites.
