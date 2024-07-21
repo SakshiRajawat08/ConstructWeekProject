@@ -5,7 +5,10 @@ To Perform functionality,usability and performance testing of the Logout functio
 * _Javascipt_
 * _Node.js_
 ### Version Control and Testing Tool Used
-_Git_,_Github_,_Cypress_,_Visual Studio Code_
+* _Git_
+* _Github_
+* _Cypress_
+* _Visual Studio Code_
 ### Operating System and Browsers Used:
 _Window_,_Edge_,_Firefox_,_Chrome_
 ## Application Under Test
