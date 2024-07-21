@@ -14,9 +14,9 @@ _Window_,_Edge_,_Firefox_,_Chrome_
 ## Application Under Test
 URL: https://tutorialsninja.com/demo/ 
 ## Scope
-1.Features to be tested
-2.Testing Types
-3.Testing methodologies
+* Features to be tested
+* Testing Types
+* Testing methodologies
 ## Cypress Installation
 ### Prerequisites
 Node.js must be installed in your computer.If not,download it from  https://nodejs.org/en 
