@@ -40,7 +40,7 @@ Node.js must be installed in your computer.If not,download it from  https://node
  node -v
 ```
 ## Download the Project
-git clone
+git clone  https://github.com/SakshiRajawat08/Constructweekproject.git 
 ## Run the Project
 Open a terminal and navigate to project directory.Install Cypress
 ```
